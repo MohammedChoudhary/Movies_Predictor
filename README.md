@@ -75,7 +75,7 @@ This project uses **The Movies Dataset** from Kaggle:
 
 **Mohammed Choudhary**  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammedchoudhary)  
-📧 choudhary@example.com *(replace with your email)*
+📧 mohammedcm7007@gmail.com
 
 ---
 
